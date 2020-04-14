@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Foxotic",
 	"textures": {
-		"0": "block/kiraslith",
-		"1": "block/ears"
+		"0": "exclusives/kiraslith",
+		"1": "exclusives/ehat_kiraslith"
 	},
 	"elements": [
 		{
