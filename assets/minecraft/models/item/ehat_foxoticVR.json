@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "exclusives/ehat_foxotic",
-		"2": "exclusives/foxotic"
+		"3": "exclusives/Foxotic(1)"
 	},
 	"elements": [
 		{
@@ -121,12 +121,12 @@
 			"from": [4, 8.5, 4],
 			"to": [12, 16.5, 12],
 			"faces": {
-				"north": {"uv": [2, 2, 4, 4], "texture": "#2"},
-				"east": {"uv": [0, 2, 2, 4], "texture": "#2"},
-				"south": {"uv": [6, 2, 8, 4], "texture": "#2"},
-				"west": {"uv": [4, 2, 6, 4], "texture": "#2"},
-				"up": {"uv": [4, 2, 2, 0], "texture": "#2", "cullface": "up"},
-				"down": {"uv": [6, 0, 4, 2], "texture": "#2"}
+				"north": {"uv": [2, 2, 4, 4], "texture": "#3"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#3"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#3"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#3"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#3", "cullface": "up"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#3"}
 			}
 		}
 	],
