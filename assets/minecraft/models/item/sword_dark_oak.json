@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"0": "item/dark_oak_sword"
+		"layer0": "item/dark_oak_sword"
 	}
 }

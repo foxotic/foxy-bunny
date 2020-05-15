@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"particle": "item/acacia_sword"
+		"layer0": "item/acacia_sword"
 	}
 }
