@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "exclusives/ehat_foxotic",
-		"2": "exclusives/Foxotic(1)",
-		"particle": "exclusives/Foxotic(1)"
+		"2": "exclusives/foxotic"
 	},
 	"elements": [
 		{
