@@ -1,35 +1,13 @@
 {
 	"parent": "block/carved_pumpkin",
 
-	"overrides": [{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/hat_pilgrim"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "item/ehat_samantha"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/ehat_bingo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "item/ehat_jack"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 5
-			},
-			"model": "item/ehat_foxoticvr"
-		}
+	"overrides": 
+	[{"predicate": {"custom_model_data": 1},"model": "item/hat_pilgrim"},
+	 {"predicate": {"custom_model_data": 2},"model": "item/ehat_samantha"},
+	 {"predicate": {"custom_model_data": 3},"model": "item/ehat_bingo"},
+	 {"predicate": {"custom_model_data": 4},"model": "item/ehat_jack"},
+	 {"predicate": {"custom_model_data": 5},"model": "item/ehat_foxoticvr"},
+	 {"predicate": {"custom_model_data": 6},"model": "item/npc_mayor"},
+	 {"predicate": {"custom_model_data": 7},"model": "item/npc_mayor"}
 	]
 }

@@ -9,6 +9,6 @@
         {"predicate": {"custom_model_data":4}, "model": "item/sword_jungle"},
         {"predicate": {"custom_model_data":5}, "model": "item/sword_spruce"}
     ]
-    }
+    
 }
 
