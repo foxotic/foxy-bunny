@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures":{
+        "layer0":"item/wooden_sword"},
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/sword_acacia"},
+        {"predicate": {"custom_model_data":2}, "model": "item/sword_birch"},
+        {"predicate": {"custom_model_data":3}, "model": "item/sword_dark_oak"},
+        {"predicate": {"custom_model_data":4}, "model": "item/sword_jungle"},
+        {"predicate": {"custom_model_data":5}, "model": "item/sword_spruce"}
+    ]
+    
+}
+
