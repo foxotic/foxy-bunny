@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures":{
+        "layer0":"item/milk_bucket"},
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/paper_hotchocolate"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/paper_coffee"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/mug_hotchocolate"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/mug_hotchocolate_half"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/mug_coffee"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/mug_coffee_half"}
+    ]
+}
