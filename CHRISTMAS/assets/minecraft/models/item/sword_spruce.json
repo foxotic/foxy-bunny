@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/handheld",
+	"parent": "item/wooden_sword",
 	"textures": {
 		"layer0": "item/spruce_sword"
 	}
